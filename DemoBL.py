@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 st.set_page_config(page_title="Bottonline.cl - BI con Power BI", layout="wide")
 
 # --- HERO SECTION ---
-st.image("Logo_uno.PNG", width=120)
+st.image("Logo_uno.png", width=120)
 
 
 
